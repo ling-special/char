@@ -1,1 +1,3 @@
 # char
+
+$ npm install char
